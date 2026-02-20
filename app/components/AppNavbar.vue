@@ -97,7 +97,7 @@ onMounted(() => {
                 </div>
 
                 <button
-                    class="p-2 text-orange-900 dark:text-orange-800 md:hidden"
+                    class="p-2 text-orange-900 dark:text-zinc-100 md:hidden"
                     :aria-label="isOpen ? 'Cerrar menú' : 'Abrir menú'" @click="isOpen = !isOpen">
                     <Icon v-if="isOpen" name="lucide:x" class="h-6 w-6" />
                     <Icon v-else name="lucide:menu" class="h-6 w-6" />
@@ -109,7 +109,7 @@ onMounted(() => {
             <div class="px-4 py-4 flex flex-col gap-3">
                 <a
                     v-for="link in navLinks" :key="link.href" :href="link.href"
-                    class="py-2 text-base font-medium text-orange-900 transition-colors hover:text-orange-800 dark:text-orange-400 dark:hover:text-orange-100"
+                    class="py-2 text-base font-medium text-orange-900 transition-colors hover:text-orange-800 dark:text-zinc-100 dark:hover:text-orange-100"
                     @click="closeMenu">
                     {{ link.label }}
                 </a>
