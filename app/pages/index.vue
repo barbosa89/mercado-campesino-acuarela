@@ -9,8 +9,8 @@
 </template>
 
 <script setup lang="ts">
-const tourTitle = 'Tour Virtual 360°'
-const tourDescription = 'Explora el lugar desde donde estés'
+const tourTitle = 'Mercado Campesino de Acuarela'
+const tourDescription = 'Tour virtual 360° del Mercado Campesino de Acuarela.'
 
 useHead({
     title: tourTitle,
