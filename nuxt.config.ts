@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     '@nuxt/icon',
     '@nuxt/image',
     '@nuxtjs/google-fonts',
-    '@nuxtjs/google-adsense',
+    // '@nuxtjs/google-adsense',
     '@nuxtjs/i18n'
   ],
 
