@@ -15,7 +15,7 @@ const attractions = [
 </script>
 
 <template>
-    <footer id="contacto" class="bg-yellow-950 text-zinc-100">
+    <footer id="contacto" class="bg-yellow-950 text-zinc-100 dark:bg-zinc-950 dark:text-zinc-300">
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16">
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
                 <div class="lg:col-span-1">
