@@ -37,7 +37,16 @@ export default defineNuxtConfig({
           content:
             "Mercado Campesino, Acuarela, Mesa de los Santos, Santander, Colombia, turismo, Cañón de Chicamocha",
         },
-        { name: "theme-color", content: "#b5622a" },
+        {
+          name: "theme-color",
+          media: "(prefers-color-scheme: light)",
+          content: "#432004",
+        },
+        {
+          name: "theme-color",
+          media: "(prefers-color-scheme: dark)",
+          content: "#18181b",
+        },
         { name: "viewport", content: "width=device-width, initial-scale=1" },
         {
           property: "og:title",
