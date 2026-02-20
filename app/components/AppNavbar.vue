@@ -14,7 +14,12 @@ function closeMenu() {
 
 <template>
     <nav
-        class="fixed top-0 left-0 right-0 z-50 border-b border-zinc-200/50 bg-white/80 backdrop-blur-md dark:border-zinc-800/50 dark:bg-zinc-950/80">
+    class="fixed top-0 left-0 right-0 z-50 border-b border-zinc-200/50 bg-white/80 backdrop-blur-md dark:border-zinc-800/50 dark:bg-zinc-950/80">
+        <div class="mb-1 text-center bg-yellow-950">
+            <p class="text-[11px] text-zinc-100">
+                Disclaimer: este sitio es una práctica educativa y no corresponde al sitio web oficial del Mercado Campesino de Acuarela.
+            </p>
+        </div>
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div class="flex h-16 items-center justify-between">
                 <a href="/" class="flex items-center gap-2">
