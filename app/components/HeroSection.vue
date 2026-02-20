@@ -6,7 +6,7 @@
                 alt="Vista aérea del Mercado Campesino de Acuarela con techos de teja y montañas al fondo"
                 class="w-full h-full object-cover" loading="eager" />
             <div
-                class="absolute inset-0 bg-linear-to-t from-zinc-950/90 via-zinc-950/50 to-zinc-950/10" />
+                class="absolute inset-0 bg-linear-to-t from-zinc-950/95 via-zinc-950/60 to-zinc-950/10" />
         </div>
 
         <div class="relative z-10 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-16 pt-32 w-full">
