@@ -22,7 +22,7 @@
                     class="mt-6 text-lg sm:text-xl text-white/80 leading-relaxed max-w-2xl text-pretty">
                     Conocí este rincón mágico donde la tradición santandereana se encuentra con la
                     experiencia turística. Sabores auténticos, paisajes impresionantes y
-                    la calidez de nuestra gente, y por eso te lo quiero mostrar.
+                    la calidez de nuestra gente.
                 </p>
 
                 <div class="mt-8 flex flex-wrap gap-3">
