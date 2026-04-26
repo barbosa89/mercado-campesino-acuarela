@@ -101,7 +101,7 @@ const attractions = [
             <div class="mt-12 pt-8 border-t border-zinc-100">
                 <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
                     <p class="text-xs text-zinc-200">
-                        {{ new Date().getFullYear() }} Omar Barbosa.
+                        {{ new Date().getFullYear() }} <a href="https://omarbarbosa.com" target="_blank">Omar Barbosa.</a>
                     </p>
                     <p class="text-xs text-zinc-200">
                         Santander, Colombia
